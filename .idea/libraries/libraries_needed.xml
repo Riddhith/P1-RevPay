@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="libraries needed">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Revature/RevPay/apiguardian-api-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Revature/RevPay/junit-jupiter-api-5.13.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Revature/RevPay/junit-jupiter-engine-5.13.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Revature/RevPay/junit-platform-console-standalone-1.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Revature/RevPay/log4j-api-2.25.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Revature/RevPay/log4j-core-2.25.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Revature/RevPay/opentest4j-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Downloads/ojdbc8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
